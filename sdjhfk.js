@@ -12,7 +12,7 @@ function Hello(props) {
 
 const container = document.getElementById("root");
 const root = ReactDOM.createRoot(container);
-root.render(<Hello />);
+root.render(<Hellooo />);
 
             function Goal(props) {
   const isGoal = props.isGoal;
