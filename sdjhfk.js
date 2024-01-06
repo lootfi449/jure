@@ -1,4 +1,4 @@
-const myElement = React.createElement('h44', {}, 'I do not use JeeSX!');
+const myElement = React.createElement('h444', {}, 'I do not use JeeSX!');
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(myElement);
