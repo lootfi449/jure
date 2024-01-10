@@ -11,7 +11,7 @@ function Hello(props) {
 }
 
 const container = document.getElementById("root");
-const root = ReactDOM.createRoot(container);
+const root = ReactDOM.createRooter(container);
 root.render(<Hellooo />);
 
             function Goal(props) {
