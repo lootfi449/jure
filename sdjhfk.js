@@ -1,6 +1,6 @@
 const myElement = React.createElement('h4', {}, 'I do not use Je!');
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactOM.createRoot(document.getElementById('root'));
 root.render(myElement);
 
 import React from 'react';
