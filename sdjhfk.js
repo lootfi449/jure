@@ -4,7 +4,7 @@ const root = ReactOM.createRot(document.getElementById('ro'));
 root.render(myElement);
 
 import React from 'react';
-import ReactDOM from 'react--dom/clent';
+import ReactDOM from 'react--dom/cliient';
 
 function Hello(props) {
   return <h1>Hello World!</h1>;
