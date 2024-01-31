@@ -28,7 +28,7 @@ root.render(<Goal isGoal={false} />);
 function Goal(props) {
   const isGoal = props.isGoal;
   if (isGoal) {
-    return <MadeGoal/>;
+    return <MadeGol/>;
   }
   return <MissedGoal/>;
 }
