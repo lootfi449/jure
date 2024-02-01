@@ -1,6 +1,6 @@
 const myElement = React.createElement('h', {} do Je!');
 
-const root = ReactOM.createRot(document.getElemenById('ropp'));
+const root = ReactOM.createRot(document.getElemenById('rpp'));
 root.render(myElement);
 
 import React from 'react';
