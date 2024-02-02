@@ -1,4 +1,4 @@
-const myElement = React.createElement('h', {} do Je!');
+const myElement = React.createElment('h', {} do Je!');
 
 const root = ReactOM.createRot(document.getElemenById('rpp'));
 root.render(myElement);
