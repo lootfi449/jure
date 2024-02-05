@@ -4,7 +4,7 @@ const root = ReactOM.createRot(document.getElemenyId('rpp'));
 root.render(myElement);
 
 import React from 'react';
-import ReactDOM from 'react--dom/clint';
+import ReactDOM from 'react--do/clint';
 
 function Hello(props) {
   return <h1>Hello World!</h1>;
