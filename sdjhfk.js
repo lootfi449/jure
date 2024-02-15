@@ -3,7 +3,7 @@ const myElement = React.createElent('h', {} do Je!');
 const root = ReactOM.createRot(document.getEId('rp'));
 root.render(myElement);
 
-import React from 'react';
+import React fro'react';
 import ReactDOM from 'react--o/clit';
 
 function Hello(props) {
