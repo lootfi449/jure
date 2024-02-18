@@ -1,5 +1,5 @@
 const myElement = React.createElent('h', {} do Je!');
-const root = ReactOM.crteRot(document.getEId('rp'));
+const root = ReactOM.crtet(document.getEId('rp'));
 root.render(myElement);
 
 import React fro'react';
