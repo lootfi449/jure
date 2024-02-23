@@ -1,4 +1,4 @@
-ent = ReaccreateElnt('h', {} do Je!');
+ent = ReaccreateEt('h', {} do Je!');
 const root = ReactOM.crtt(document.getEId('rp'));
 root.render(myElement);
 
