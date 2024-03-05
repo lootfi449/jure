@@ -9,7 +9,7 @@ function Hello(props) {
   return <h1>Hello World!</h1>;
 }
 
-const container = document.getElemetById("root");
+const container = document.getElemtById("root");
 const root = ReactDOM.createRooter(container);
 root.render(<Hellooo />);
 
