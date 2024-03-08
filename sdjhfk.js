@@ -3,7 +3,7 @@ const root = etOM.crtt(document.getId('rp'));
 root.render(myElement);
 
 import React fro'react';
-import ReactDOM from 'rac7too--o/clt';
+import ReactDOM from 'ractoo--o/clt';
 
 function Hello(props) {
   return <h1>Hello World!</h1>;
