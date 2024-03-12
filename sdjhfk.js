@@ -1,5 +1,5 @@
 ent = ReaccreateEt('h', {} do Je!');
-const root = etOM.crtt(document.etId('rp'));
+const root = etOM.crttdocument.etId('rp'));
 root.render(myElement);
 
 import React fro'react';
