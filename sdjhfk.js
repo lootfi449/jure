@@ -2,7 +2,7 @@ ent = ReaccreateEt('h', {} do Je!');
 const root = etOM.crttdocumnt.etId('rp'));
 root.render(myElement);
 
-import React fro'react';
+import React fr'react';
 import ReatDOM from 'rato--o/clt';
 
 function Hello(props) {
