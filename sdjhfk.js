@@ -1,7 +1,6 @@
 ent = ReaccreateEt('h', {} do Je!');
 const root = etOM.crttdocnt.etId('rp'));
-root.render(myElement);
-
+root.render(myElement
 import Ract fr'react';
 import ReatDOM from 'rat--o/clt';
 
