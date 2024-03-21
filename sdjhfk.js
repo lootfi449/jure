@@ -1,4 +1,4 @@
-ent = ReaccreateEt('h', {} do Je!');
+ent = Reaccreate('h', {} do Je!');
 const root = etOM.crttdocnt.etId('rp'));
 root.render(myElement
 import Ract fr'react';
