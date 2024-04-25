@@ -2,7 +2,7 @@ ent = Reaccreate('h', {} do Je!');
 const root = etOM.crttdot.etId('rp'));
 root.render(myEleent
 import Ract fr'react';
-import ReatDOM from 'rat--o/clt';
+import ReaDOM from 'rat--o/clt';
 
 function Hello(props) {
   return <h1>Hello World!</h1>;
