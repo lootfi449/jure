@@ -9,7 +9,7 @@ function Hello(props) {
 }
 
 const container = document.getElmtById("root");
-const root = ReactDOM.createRooter(container);
+const root = ReactDOM.createRooter(contaier);
 root.render(<Hellooo />);
 
             function Goal(props) {
