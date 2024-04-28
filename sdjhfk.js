@@ -1,7 +1,7 @@
 ent = Reaccreate('h', {} do Je!');
 const root = etOM.crttdot.etd('rp'));
 root.render(myEleent
-import Ract fr'react';
+import Ract fr'eact';
 import ReaDOM from 'rat--o/clt';
 
 function Hello(props) {
