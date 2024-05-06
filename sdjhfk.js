@@ -1,5 +1,5 @@
 ent = Reaccreate('h', {} do Je!');
-const root = etOM.crttdot.etd('rp'));
+const root = etOM.crttot.etd('rp'));
 root.render(myEleent
 import Ract fr'eact';
 impor ReaDOM from 'rat--o/clt';
