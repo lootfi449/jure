@@ -13,8 +13,9 @@ vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@rcyew.zarinplus.net:2018?encryption
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@bvcjkl.zarinplus.net:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇩🇪 04     ⌛️ 09/04
 
 vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@sakura.proxy.rlwy.net:15357?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=XQ7ktU73Jlw_TlJuR7mh1Ef22-9JIyF5k7r3KkK972g&sid=ef896be5&spx=%2F2694f8012f6387f&type=tcp&headerType=none#🇳🇱 01     ⌛️ 09/04
-vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@sakura.proxy.rlwy.net:36807?encryption=none&fp=chrome&pbk=qYoPAApGs3-NHlsA-PtxOALCur1PZ-iZp-m_9Xef9z8&security=reality&sid=8784&sni=www.cloudflare.com&spx=%2F0f5a3ff5dc2402e&type=tcp#🇳🇱 02     ⌛️ 09/04
-vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@wcklp.zarinplus.net:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇳🇱 03     ⌛️ 09/04
+vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@66.33.22.225:15451?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=pJhBKhroNZ9ECiIa5tWA0WZ0OYAokQ8Ps_t-j2OJokQ&sid=f06f62&spx=%2Fd83a6f27a3968bf&type=tcp&headerType=none#🇳🇱 02     ⌛️ 09/04
+vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@66.33.22.225:42624?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=cJWgAPvc2QlD3BXyk4g5T3IRsLjrYQ7P6QcwfOpNLko&sid=80&spx=%2F86b8ba760c4db52&type=tcp&headerType=none#🇳🇱 03     ⌛️ 09/04
+vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@wcklp.zarinplus.net:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇳🇱 04     ⌛️ 09/04
 vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@sakura.proxy.rlwy.net:39583?encryption=none&fp=ios&pbk=2zN0_cRfadljXtZBZlcmY_kPzhUKXKC8-wuD7K9NeGo&security=reality&sid=295511&sni=timeline.www.cloudflare.com&spx=%2F8a268cfa1c513e1&type=tcp#🇺🇸 01     ⌛️ 09/04
 vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@sakura.proxy.rlwy.net:23185?encryption=none&fp=ios&pbk=qaLyha23s_zJhYwA4ZI1eJhbCl7Ycm-kJVlGH11ty0c&security=reality&sid=89bbf314&sni=www.cloudflare.com&spx=%2F774406414531311&type=tcp#🇺🇸 02     ⌛️ 09/04
 vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@retv.zarinplus.net:4765?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🇺🇸 03     ⌛️ 09/04
