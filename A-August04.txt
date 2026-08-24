@@ -20,4 +20,3 @@ vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@dnsalcp.kevmixa.ir:4765?encryption=
 vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@caboose.proxy.rlwy.net:28747?encryption=none&security=reality&sni=www.cloudflare.com&fp=ios&pbk=oGZhHFhFGatH0FcL7XA9_-oDbaIQ1XAsU5ICZk36ehg&sid=f542680d4c&spx=%2Fb024fb1e69c18b5&type=tcp&headerType=none#🇺🇸 01     09/04
 vless://fc82fa68-65d3-41db-b1c1-b595552ac8c3@yamabiko.proxy.rlwy.net:49835?encryption=none&fp=ios&pbk=Rk5RJ9UKculG8WdHwoePgJyIFCmBjFy7k-OnFjDNbWQ&security=reality&sid=f0e699f3c41621eb&sni=www.cloudflare.com&spx=%2Fcd4bf30e9c01fca&type=tcp#🇺🇸 02     09/04
 vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#🇺🇸 03     09/04
-vless://080f8b83-f4e5-4b6a-af60-0f1b7fd2b65f@lwoka.restaurantbomb.com:4765?encryption=none&type=http&host=swcdn.apple.com&path=/&method=GET&packetEncoding=xudp#🇨🇦 01     09/04
